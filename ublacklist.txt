@@ -1,1 +1,7 @@
-repubblica.it
+# Media
+*://*.repubblica.it/*
+*://*.ansa.it/*
+*://*.corriere.it/*
+
+# Legal
+*://*.brocardi.it/*
