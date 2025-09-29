@@ -1,1 +1,3 @@
 *://*.ansa.it/*
+*://*.corriere.it/*
+*://*.repubblica.it/*
