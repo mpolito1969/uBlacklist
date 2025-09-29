@@ -1,7 +1,4 @@
-# Media
-*://*repubblica.it/*
+*://elezioni.repubblica.it/*
 *://*ansa.it/*
 *://*corriere.it/*
-
-# Legal
 *://*brocardi.it/*
