@@ -1,4 +1,7 @@
+# Media
 *://*.ansa.it/*
 *://*.corriere.it/*
 *://*.repubblica.it/*
+
+# Legal
 *://*.brocardi.it/*
