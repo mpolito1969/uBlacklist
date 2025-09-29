@@ -1,3 +1,4 @@
 *://*.ansa.it/*
 *://*.corriere.it/*
 *://*.repubblica.it/*
+*://*.brocardi.it/*
