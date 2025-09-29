@@ -1,3 +1,18 @@
+---
+name: Siti che subordinano l'accesso ai contenuti al pagamento di un abbonamento o all'accettazione dei cookie
+---
+
+#
+# Questa blacklist serve per evitare che vengano mostrati nei risultati
+# delle ricerche i siti che subordinano l'accesso ai contenuti al pagamento
+# di un abbonamento o all'accettazione di cookie.
+# 
+# Aggiorno la listaa mano a mano che trovo nuovi siti che adottano questo
+# metodo.
+#
+# Contatti: @max@poliverso.org
+#
+
 # Media
 *://*.ansa.it/*
 *://*.corriere.it/*
