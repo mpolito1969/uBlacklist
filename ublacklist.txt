@@ -1,7 +1,5 @@
 ---
-name: Siti che subordinano l'accesso ai loro
-contenuti al pagamento di un abbonamento o
-all'accettazione di cookie
+name: Siti che subordinano l'accesso ai loro contenuti al pagamento di un abbonamento o all'accettazione di cookie
 ---
 
 # Questa blacklist serve per evitare che nei
