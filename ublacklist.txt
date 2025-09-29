@@ -1,4 +1,4 @@
-elezioni.repubblica.it
+*://*repubblica.it/*
 *://*ansa.it/*
 *://*corriere.it/*
 *://*brocardi.it/*
