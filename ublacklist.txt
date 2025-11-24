@@ -27,6 +27,7 @@ name: Siti che subordinano l'accesso ai loro contenuti al pagamento di un abbona
 *://*.corriere.it/*
 *://*.repubblica.it/*
 *://*.today.it/*
+*://*quifinanza.it/*
 
 # Legal
 *://*.brocardi.it/*
