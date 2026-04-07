@@ -38,4 +38,4 @@ name: Siti che subordinano l'accesso ai loro contenuti al pagamento di un abbona
 *://*.brocardi.it/*
 
 # Dizionari
-*://*.larousse.fr
+*://*.larousse.fr/*
