@@ -32,6 +32,7 @@ name: Siti che subordinano l'accesso ai loro contenuti al pagamento di un abbona
 *://*.lastampa.it/*
 *://*.ilfattoquotidiano.it/*
 *://*.ilsole24ore.com/*
+*://*.milanotoday.it/*
 
 # Legal
 *://*.brocardi.it/*
