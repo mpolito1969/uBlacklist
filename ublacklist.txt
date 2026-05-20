@@ -40,3 +40,6 @@ name: Siti che subordinano l'accesso ai loro contenuti al pagamento di un abbona
 
 # Dizionari
 *://*.larousse.fr/*
+
+# Altri siti
+*://*.lecalorie.it/*
